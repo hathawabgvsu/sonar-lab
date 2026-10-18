@@ -22,3 +22,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+def multiply(a,b):
+    result=a*b
+    unused_var = 99
+    return result
